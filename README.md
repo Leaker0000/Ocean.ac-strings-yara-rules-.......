@@ -17,7 +17,7 @@ A YARA rule zoo. Detections for generic DLLs (d3d11.dll, ole32.dll), buzzwords l
 detect code.txt
 Imported from LOLDrivers GitHub repo with minimal changes. Tries to identify vulnerable drivers by checking PE headers. Actually the only slightly useful part — but again, public and outdated​
 
-Echo Anticheat – "Security" So Bad It Leaks Itself 🫠
+Echo Anticheat + Detect Anticheat – "Security" So Bad It Leaks Itself 🫠
 The entire thing is a meme. No integrity checks, no proper obfuscation, no dynamic analysis — just static YARA + hardcoded strings. Anyone using custom firmware or even slightly modified binaries will pass through undetected.
 
 And now it’s all out here. .exe, source code, hashes, detection logic — you name it.
@@ -27,7 +27,7 @@ echo just detected capcut.exe, ....
 they're using .toc files😰 they're using .toc files for detecting something (i think they use it for debugging)
 {"level":"debug","time":"2025-04-06T10:31:37+03:00","message":"[TOC File] f3eef3528c1905fe6ea472f366161054_fce8395c8fd8a938_f27d75890f5b9d90_0_3.0.toc: launcher.exe (Mod: 2025-04-06T08:37:44+03:00)"}
 
-🗂️ Grab the source, learn how not to build anticheat, and maybe build your own for laughs. Echo Anticheat? More like Echo Chamber, because no real threats are bouncing off this.
+🗂️ Grab the source, learn how not to build anticheat, and maybe build your own for laughs.
 
 
 
