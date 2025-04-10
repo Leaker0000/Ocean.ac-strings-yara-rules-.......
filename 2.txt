@@ -1,0 +1,232 @@
+\Registry\Machine\SOFTWARE\Microsoft\AppModel\Lookaside\machine\SYSTEM\ControlSet001\Control\Class\{4D36E968-E325-11CE-BFC1-08002BE10318}\0000\Settings\
+\Registry\Machine\SOFTWARE\Microsoft\AppModel\Lookaside\user\System\CurrentControlSet\Control\MediaProperties\PrivateProperties\Joystick\OEM\VID_046D&PID_0AFC\OEMForceFeedback
+\REGISTRY\MACHINE\SOFTWARE
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\Control\Class\{4d36e968-e325-11ce-bfc1-08002be10318}\0000
+\Registry\Machine\SOFTWARE\Microsoft\AppModel\Lookaside\machine\HARDWARE\DEVICEMAP\Scsi\Scsi Port 0\Scsi Bus 0\Target Id 0\Logical Unit Id 0\
+\Registry\Machine\Software\Classes\CLSID\{ED822C8C-D6BE-4301-A631-0E1416BAD28F}
+\Registry\Machine\Software\Classes\CLSID\{AA94DCC2-B8B0-4898-B835-000AABD74393}
+\Registry\Machine\Software\Classes\CLSID\{C17CABB2-D4A3-47D7-A557-339B2EFBD4F1}
+\Registry\Machine\Software\Classes\CLSID\{7693E886-51C9-4070-8419-9F70738EC8FA}
+\Registry\Machine\Software\Classes\CLSID\{076C2A6C-F78F-4C46-A723-3583E70876EA}
+\Registry\Machine\Software\Classes\CLSID\{E7E79A30-4F2C-4FAB-8D00-394F2D6BBEBE}
+\Registry\Machine\SOFTWARE\Microsoft\AppModel\Lookaside\user
+\Registry\Machine\SOFTWARE\Microsoft\AppModel\Lookaside\user
+\REGISTRY\USER\S-1-5-21-74187447-3626436832-1199751615-1001
+\REGISTRY\USER\S-1-5-21-74187447-3626436832-1199751615-1001
+\REGISTRY\USER\S-1-5-21-74187447-3626436832-1199751615-1001
+\REGISTRY\USER\S-1-5-21-74187447-3626436832-1199751615-1001_Classes\CLSID\{088e3905-0323-4b02-9826-5d99428e115f}\Instanc
+\REGISTRY\USER\S-1-5-21-74187447-3626436832-1199751615-1001_Classes\CLSID\{76765b11-3f95-4af2-ac9d-ea55d8994f1a}\InProcS
+\REGISTRY\USER\S-1-5-21-74187447-3626436832-1199751615-1001_Classes\CLSID\{f0ae1542-f497-484b-a175-a20db09144ba}\InprocHandler32
+\Registry\Machine\SOFTWARE\Microsoft\AppModel\Lookaside\machine\SOFTWARE\Classes\CLSID\{95E15D0A-66E6-93D9-C53C-76E6219D3341}\InprocHandler32
+\Registry\Machine\SOFTWARE\Microsoft\AppModel\Lookaside\machine\Software\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\PackageRepository\Extensions\windows.fileTypeAssociation\.id0
+\REGISTRY\USER\S-1-5-21-74187447-\Registry\Machine\Software\Classes\WOW6432Node\Interface\{2AD63A67-F12F-4BD7-B1BF-6213290A552A}\Forward
+\Registry\Machine\SOFTWARE\Microsoft\AppModel\Lookaside\machine\SOFTWARE\Microsoft\Windows\CurrentVersion\ShellCompatibility\Objects\{00021401-0000-0000-C000-000000000046}
+\REGISTRY\USER\S-1-5-21-74187447-3626436832-1199751615-1001_Classes\WOW6432Node\Interface\{2AD63A67-F12F-4BD7-B1BF-6213290A552A}\Forward
+\Registry\Machine\SOFTWARE\Microsoft\AppModel\Lookaside\machine\SOFTWARE\Classes\CLSID\{41fd88f7-f295-4d39-91ac-a85f3149a05b}\InprocHandler
+\REGISTRY\USER\S-1-5-21-74187447-3626436832-1199751615-1001_Classes\CLSID\{0E5AAE11-A475-4c5b-AB00-C66DE400274E}\InProcServer32
+\REGISTRY\USER\S-1-5-21-74187447-3626436832-1199751615-1001_Classes\CLSID\{D4CA0E2D-6DA7-4b75-A97C-5F306F0EAEDC}\InProcServer32
+ogram Files\NVIDIA Corporation\NVIDIA app\NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Windows Kits\10\Wind\Registry\Machine\Software\Classes\WOW6432Node\CLSID\{776DBC8D-7347-478C-8D71-791E12EF49D8}
+\REGISTRY\USER\S-1-5-21-74187447-3626436832-1199751615-1001_Classes\WOW6432Node\Interface\{2AD63A67-F12F-4BD7-B1BF-6213290A552A}\Forward
+\REGISTRY\USER\S-1-5-21-74187447-3626436832-1199751615-1001_Classes\CLSID\{D4CA0E2D-6DA7-4b75-A97C-5F306F0EAEDC}\InprocHandler32
+\REGISTRY\USER\S-1-5-21-74187447-3626436832-1199751615-1001_Classes\CLSID\{660b90c8-73a9-4b58-8cae-355b7f55341b}\InProcServer32
+\REGISTRY\USER\S-1-5-21-74187447-3626436832-1199751615-1001_Classes\CLSID\{f6c29334-47dc-4397-9150-f549cf1d4861}\InprocHandler32
+\REGISTRY\USER\S-1-5-21-74187447-3626436832-1199751615-1001_Classes\CLSID\{f6c29334-47dc-4397-9150-f549cf1d4861}\InprocHandler
+\Registry\Machine\SOFTWARE\Microsoft\AppModel\Lookaside\machine\SOFTWARE\Classes\CLSID\{c2f03a33-21f5-47fa-b4bb-156362a2f239}\InprocServer32
+\REGISTRY\USER\S-1-5-21-74187447-3626436832-1199751615-1001_Classes\Interface\{2ad63a67-f12f-4bd7-b1bf-6213290a552a}\ProxyStubClsid32
+\Registry\Machine\SOFTWARE\Microsoft\AppModel\Lookaside\machine\Software\Microsoft\Windows\CurrentVersion\Explorer\AllowedEnumeration
+\Registry\Machine\SOFTWARE\Microsoft\AppModel\Lookaside\machine\SYSTEM\CurrentControlSet\Control\Video\{GUID}\Video\
+\Registry\Machine\SOFTWARE\Microsoft\AppModel\Lookaside\machine\SYSTEM\CurrentControlSet\Control\Video\{GUID}\Video\
+\Registry\Machine\SOFTWARE\Microsoft\AppModel\Lookaside\machine\SYSTEM\ControlSet001\Services\Tcpip6\Parameters\Interfaces\{388a4eea-cd59-11ef-92b6-806e6f6e6963}
+\Registry\Machine\SOFTWARE\Microsoft\AppModel\Lookaside\machine\SYSTEM\ControlSet001\Services\Tcpip6\Parameters\Interfaces\{388a4eea-cd59-11ef-92b6-806e6f6e6963}
+\REGISTRY\USER\S-1-5-21-74187447-\Regist
+\REGISTRY\USER\S-1-5-21-74187447-\Regist
+\REGISTRY\USER\S-1-5-21-74187447-3626436832-1199751615-1001\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders
+\REGISTRY\USER\S-1-5-21-74187447-3626436832-1199751615-1001\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders
+\REGISTRY\USER\S-1-5-21-74187447-3626436832-1199751615-1001\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders
+\REGISTRY\USER\S-1-5-21-74187447-3626436832-1199751615-1001\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders
+\REGISTRY\USER\S-1-5-21-74187447-3626436832-1199751615-1001\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders
+\REGISTRY\USER\S-1-5-21-74187447-3626436832-1199751615-1001\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders
+\REGISTRY\USER\S-1-5-21-74187447-3626436832-1199751615-1001_Classes\CLSID\{A6FF50C0-56C0-71CA-5732-BED303A59628}\InprocHandler32
+\Registry\Machine\SOFTWARE\Microsoft\AppModel\Lookaside\machine\SOFTWARE\Classes\CLSID\{A6FF50C0-56C0-71CA-5732-BED303A59628}\InprocHandler
+\REGISTRY\USER\S-1-5-21-74187447-3626436832-1199751615-1001_Classes\CLSID\{9ac9fbe1-e0a2-4ad6-b4ee-e212013ea917}\InprocHandler
+\REGISTRY\USER\S-1-5-21-74187447-3626436832-1199751615-1001_Classes\CLSID\{76765b11-3f95-4af2-ac9d-ea55d8994f1a}\InProcServer32
+\REGISTRY\USER\S-1-5-21-74187447-3626436832-1199751615-1001_Classes\CLSID\{A6FF50C0-56C0-71CA-5732-BED303A59628}\InProcServer32
+\REGISTRY\USER\S-1-5-21-74187447-3626436832-1199751615-1001_Classes\CLSID\{9ac9fbe1-e0a2-4ad6-b4ee-e212013ea917}\InProcServer32
+\Registry\Machine\SOFTWARE\Microsoft\AppModel\Lookaside\machine\SOFTWARE\Classes\CLSID\{D25D8842-8884-4A4A-B321-091314379BDD}\InprocHandler32
+\Registry\Machine\SOFTWARE\Microsoft\AppModel\Lookaside\machine\SOFTWARE\Classes\CLSID\{00020420-0000-0000-C000-000000000046}\InprocHandler
+\REGISTRY\USER\S-1-5-21-74187447-\Registry\Machine\Software\Classes\WOW6432Node\Interface\{2AD63A67-F12F-4BD7-B1BF-6213290A552A}\Forward
+\Registry\Machine\SOFTWARE\Microsoft\AppModel\Lookaside\machine\SOFTWARE\Classes\CLSID\{f6c29334-47dc-4397-9150-f549cf1d4861}\InprocHandler32
+\REGISTRY\USER\S-1-5-21-74187447-3626436832-1199751615-1001_Classes\CLSID\{f6c29334-47dc-4397-9150-f549cf1d4861}\InprocHandler
+\Registry\Machine\SOFTWARE\Microsoft\AppModel\Lookaside\machine\Software\Microsoft\Windows NT\CurrentVersion\Perflib
+\REGISTRY\MACHINE\SOFTWARE\CLASSES
+\REGISTRY\USER
+\REGISTRY\MACHINE\SYSTEM\CurrentControlSet\Hardware Profiles\Current
+\REGISTRY\MACHINE\SYSTEM\CurrentControlSet\Control\Class
+\REGISTRY\MACHINE\SYSTEM\CurrentControlSet\Control
+\Registry\Machine\
+\Registry\User\
+\REGISTRY\MACHINE\SOFTWARE\CLASSES
+\REGISTRY\MACHINE\SYSTEM\CURRENTCONTROLSET\HARDWARE PROFILES\CURRENT
+\Registry\Machine\
+\Registry\User\
+\REGISTRY\MACHINE
+\Registry\Machine\Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\InstalledSDB
+\Registry\Machine\Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Custom
+\REGISTRY\MACHINE\%s
+\Registry\Machine\
+\REGISTRY\MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\ProfileList
+\Registry\Machine\Software\Microsoft\Windows NT\CurrentVersion\ProfileList
+\Registry\Machine
+\Registry\Machine\Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\InstalledSDB
+\REGISTRY\MACHINE\%s
+\Registry\Machine\Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Custom
+\REGISTRY\MACHINE\Software\Microsoft\Windows NT\CurrentVersion
+\REGISTRY\USER\
+onecoreuap\shell\windows.storage\kfapi\registrykeyprovider.cpp
+onecore\internal\sdk\inc\wil\opensource\wil\registry.h
+onecoreuap\shell\windows.storage\sharedstoragesources\registryverbarray.cpp
+\REGISTRY\
+\Registry\Machine\System\CurrentControlSet\Services\Winsock\Parameters\TCP on SAN
+\Registry\Machine\System\CurrentControlSet\Services\AFD
+\Registry\Machine\System\CurrentControlSet\Services\Tcp\Parameters
+\Registry\Machine\System\CurrentControlSet\Services\Tcp\VParameters
+\Registry\Machine\System\CurrentControlSet\Services\Tcpip\Parameters
+\REGISTRY\MACHINE
+\REGISTRY\MACHINE\SOFTWARE\Classes
+\REGISTRY\USER
+\REGISTRY\MACHINE\SYSTEM\CurrentControlSet\Hardware Profiles\Current
+minio\profapi\registry.cpp
+\REGISTRY\MACHINE
+\REGISTRY\MACHINE\SOFTWARE\Classes
+\REGISTRY\USER
+\REGISTRY\MACHINE\SYSTEM\CurrentControlSet\Hardware Profiles\Current
+\Registry\Machine\SYSTEM\CurrentControlSet\Policies\Microsoft\Cryptography\Configuration
+\Registry\Machine\System\CurrentControlSet\Control\Lsa
+\Registry\Machine\System\CurrentControlSet\Control\Lsa\FipsAlgorithmPolicy
+\Registry\Machine\SOFTWARE\Policies\Microsoft\Windows NT\Printers
+\Registry\Machine\Software\Microsoft\Windows NT\CurrentVersion\GRE_Initialize
+\REGISTRY\MACHINE\SYSTEM\CurrentControlSet\Control\MiniNT
+\Registry\A\
+\Registry\Machine\SOFTWARE\Policies\Microsoft\Windows\Appx
+\Registry\Machine\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModelUnlock
+\Registry\Machine\SYSTEM\CurrentControlSet\Control\MUI\StringCacheSettings
+\Registry\User
+\REGISTRY\MACHINE\Software\Classes
+\Registry\Machine\System\CurrentControlSet\Control
+\Registry\Machine\System\CurrentControlSet\Services\Tcpip\Parameters
+\Registry\Machine\Software\Policies\Microsoft\System\DNSClient
+\Registry\Machine\System\Setup
+\Registry\Machine\System\CurrentControlSet\Services\CCG
+\Registry\Machine\
+\Registry\Machine\System\CurrentControlSet\Control\ComputerName\ComputerName
+\Registry\User\
+\Registry\MACHINE\System\CurrentControlSet\Control\SafeBoot\Option
+\Registry\Machine\System\CurrentControlSet\Control\Session Manager
+\Registry\Machine\System\CurrentControlSet\Control\ComputerName\ActiveComputerName
+\Registry\Machine\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Perflib
+\Registry\MACHINE\SOFTWARE\CLASSES
+\Registry\Machine\Software\Policies\Microsoft\Windows\System
+\Registry\Machine\Software\Microsoft\Wow64\x86\xtajit
+\Registry\Machine\System\CurrentControlSet\Control\FileSystem\
+\REGISTRY\MACHINE\SYSTEM\CURRENTCONTROLSET\HARDWARE PROFILES\CURRENT
+\REGISTRY\USER
+\Registry\Machine\SOFTWARE\Microsoft\AppModel\Lookaside\Packages
+\REGISTRY\MACHINE\OSDATA\Session Manager
+\Registry\Machine\System\CurrentControlSet\Control\CommonGlobUserSettings\
+\Registry\Machine\SYSTEM\CurrentControlSet\Control\International
+\Registry\Machine\Software\Microsoft\Windows NT\CurrentVersion\Terminal Server
+onecore\base\appmodel\common\registrykey.cpp
+\Registry\Machine\Software\Microsoft\Windows NT\CurrentVersion\AeDebugProtected
+\Registry\Machine\Software\Microsoft\Windows NT\CurrentVersion\AeDebug
+\Registry\Machine\Software\Microsoft\Windows NT\CurrentVersion\AeDebug\AutoExclusionList
+\Registry\Machine\Software\Microsoft\Windows NT\CurrentVersion\AeDebugProtected\AutoExclusionList
+\Registry\MACHINE\Hardware\DeviceMap\SERIALCOMM
+\Registry\Machine
+\Registry\Machine\Software
+\Registry\Machine\SOFTWARE\Microsoft\AppModel\Lookaside
+\REGISTRY\USER\*_Classes\Wow6432Node
+\REGISTRY\USER\*_Classes
+\REGISTRY\MACHINE\SOFTWARE\Wow6432Node
+\REGISTRY\MACHINE\SOFTWARE
+\REGISTRY\USER\*\SOFTWARE\Classes\Wow6432Node
+\REGISTRY\USER\*\SOFTWARE\Classes
+\Registry\Machine\System\CurrentControlSet\Control\Lsa
+\Registry\Machine\System\CurrentControlSet\Control\Lsa\FipsAlgorithmPolicy
+\Registry\Machine\Software\Classes
+\Registry\User
+\Registry\Machine\Software\Policies\Microsoft\Windows\Safer
+\Registry\Machine\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Perflib
+\Registry\Machine\System\CurrentControlSet\Services
+\Registry\Machine\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Perflib
+\Registry\Machine\System\CurrentControlSet\Control\Srp\GP\
+\Registry\Machine\System\CurrentControlSet\Control\SafeBoot\Option
+\Registry\Machine\Software\Policies\Microsoft\Windows\Safer\CodeIdentifiers
+\Registry\MACHINE
+\Registry\MACHINE\Software\Microsoft\Windows\CurrentVersion\SideBySide
+\Registry\Machine\System\CurrentControlSet\Control\Terminal Server
+\Registry\Machine\System\CurrentControlSet\Control\ComputerName
+\Registry\Machine\System\Setup
+\Registry\MACHINE\System\CurrentControlSet\Control\SafeBoot\Option
+\Registry\Machine\Software\Policies\Microsoft\Windows\Safer\CodeIdentifiers
+\Registry\Machine\System\CurrentControlSet\Control\Session Manager\AppCertDlls
+\Registry\Machine\System\CurrentControlSet\Control\NLS\Language
+\Registry\Machine\System\CurrentControlSet\Control\MUI\CallbackDlls
+\Registry\Machine\System\CurrentControlSet\Services\LanmanServer\Parameters
+\Registry\Machine\System\CurrentControlSet\Services\DnsCache\Parameters
+\REGISTRY\USER\.DEFAULT
+\Registry\Machine\Software\Microsoft\Windows NT\CurrentVersion\Terminal Server\Compatibility\Applications\
+\Registry\Machine\Software\Policies\Microsoft\Windows\AppCompat
+\Registry\Machine\SYSTEM\CurrentControlSet\Control\WOW
+\Registry\Machine\Software\Microsoft\Windows NT\CurrentVersion\AeDebug
+\Registry\Machine\Software\Microsoft\Windows NT\CurrentVersion\AeDebugProtected
+\Registry\Machine\Software\Microsoft\Windows NT\CurrentVersion\AeDebug\AutoExclusionList
+\Registry\Machine\Software\Microsoft\Windows NT\CurrentVersion\AeDebugProtected\AutoExclusionList
+\Registry\Machine
+\Registry\Machine\Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\InstalledSDB
+\REGISTRY\MACHINE\%s
+\Registry\Machine\Software\Microsoft\Windows\Containers
+\Registry\Machine\System\CurrentControlSet\Control\ComputerName\ComputerName
+\Registry\Machine\System\CurrentControlSet\Control\ComputerName\ActiveComputerName
+\Registry\Machine\System\CurrentControlSet\Services\Tcpip\Parameters
+\Registry\Machine\Software\Classes\Interface\{00020400-0000-0000-C000-000000000046}
+\Registry\Machine\Software\Classes\Interface
+\Registry\Machine\Software\Classes\Interface\%s\TypeLib
+\Registry\Machine\Software\Classes\Interface\%s\Forward
+\Registry\Machine\Software\Classes\
+\Registry\Machine\Software\Classes\TypeLib\%s
+onecore\internal\com\inc\combase\RegistryKey.hpp
+\Registry\Machine\
+\Registry\Machine\Software\Microsoft\Windows NT\CurrentVersion\OEM
+\Registry\Machine\Software\Microsoft\Windows NT\CurrentVersion
+\REGISTRY\USER\
+\Registry\Machine\Software\Microsoft\SecurityManager\AdminCapabilities
+\Registry\Machine\HARDWARE\DESCRIPTION\System\CentralProcessor\0
+\Registry\Machine\System\CurrentControlSet\Control
+\Registry\Machine\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\
+\Registry\Machine\Software\Policies\Microsoft\MUI\Settings
+\Registry\Machine\System\CurrentControlSet\Control\MUI\Settings
+\Registry\Machine\System\CurrentControlSet\Control\ProductOptions
+\Registry\Machine\System\CurrentControlSet\Control\NLS\Language
+\Registry\Machine\System\CurrentControlSet\Control\SafeBoot\Option
+\Registry\Machine\Software\Policies\Microsoft\Windows\Safer\CodeIdentifiers
+\Registry\Machine\System\CurrentControlSet\Control\StateSeparation\RedirectionMap\Files
+\Registry\Machine\System\CurrentControlSet\Control\StateSeparation\RedirectionMap\Keys
+\Registry\User\.Default
+\Registry\Machine\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options
+\Registry\Machine\SYSTEM\CurrentControlSet\Control\Session Manager
+\Registry\Machine\System\CurrentControlSet\Control\Srp\GP\DLL
+\Registry\Machine\Software\Microsoft\Windows\CurrentVersion\SideBySide\AssemblyStorageRoots
+\Registry\Machine\System\CurrentControlSet\Control\Session Manager\kernel
+\Registry\MACHINE\SYSTEM\CurrentControlSet\Control\Nls\CustomLocale
+\Registry\Machine\Software\Microsoft\Windows\CurrentVersion\AppModel\StateChange
+\Registry\Machine\Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Compatibility Assistant\
+\Registry\Machine\Software\Microsoft\SQMClient\Windows\WMR
+\Registry\Machine\Software\Microsoft\Windows\Windows Error Reporting\Escalation
+\Registry\MACHINE\System\CurrentControlSet\Control\Session Manager\Safe Load Prefixes
+\Registry\Machine\SYSTEM\CurrentControlSet\Control
+\Registry\Machine\System\CurrentControlSet\Control\MUI\Settings\LanguageConfiguration
+\Registry\Machine\System\CurrentControlSet\Control\MUI\UILanguages
+\Registry\Machine\System\CurrentControlSet\Control\MUI\UILanguages\PendingDelete
+\Registry\Machine\SOFTWARE\Microsoft\Windows NT\CurrentVersion
+\Registry\Machine\System\CurrentControlSet\Control\CommonGlobUserSettings\
+\Registry\Machine\SYSTEM\CurrentControlSet\Control\International
